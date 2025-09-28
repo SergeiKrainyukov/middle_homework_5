@@ -1,6 +1,6 @@
-package com.yandex.practicum.middle_homework_5.ui.contract
+package com.skrainyukov.settings.ui.contract
 
-import com.yandex.practicum.middle_homework_5.data.data_store.SettingContainer
+import com.skrainyukov.settings.dataStore.SettingContainer
 import kotlinx.coroutines.flow.StateFlow
 
 interface DataStoreService {
